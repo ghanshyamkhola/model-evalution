@@ -1,4 +1,4 @@
-# AI Internship - Day 10
+
 
 ## Topic
 Model Evaluation using Scikit-Learn
